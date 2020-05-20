@@ -1,26 +1,10 @@
 first_number = 3
 second_number = 9
 
-def sum
-  sum_r = first_number + second_number
-  puts sum_r
-  sum_r
-end
+sum = first_number + second_number
 
-def difference
-  dif_r = first_number - second_number
-  puts dif_r
-  dif_r
-end
+difference = first_number - second_number
 
-def product
-  product_r = first_number * second_number
-  puts product_r
-  product_r
-end
+product = first_number * second_number
 
-def quotient
-  quotient_r = first_number/second_number
-  puts quotient_r
-  quotient_r
-end
+quotient = first_number/second_number
